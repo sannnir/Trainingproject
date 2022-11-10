@@ -1,9 +1,9 @@
 # Trainingproject
 How to write md:
 
-#Heading1
+# Heading1
 write "#" for heading1
-##Heading2
+## Heading2
 write "##" for heading2
 
 Empty line makes a paragraph division.
